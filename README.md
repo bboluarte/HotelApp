@@ -1,6 +1,6 @@
 # reserva_hotel
 
-proyecto final de Administracion de BD
+Maqueta de app de reservación de habitación de hotel
 
 ## Getting Started
 
