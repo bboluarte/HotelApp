@@ -14,8 +14,15 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![Screenshot_1618784800](![Screenshot_1618789283](https://user-images.githubusercontent.com/56524671/115173004-071ae200-a08c-11eb-9478-85d6cf87137a.png)![Screenshot_1618789270](https://user-images.githubusercontent.com/56524671/115173000-05511e80-a08c-11eb-9e08-88ccdab2bbdb.png)
-)
-![Screenshot_1618784805](https://user-images.githubusercontent.com/56524671/115172992-041ff180-a08c-11eb-8f4a-8b2556932540.png)
-![Screenshot_1618784808](https://user-images.githubusercontent.com/56524671/115172995-04b88800-a08c-11eb-80d0-81f72f3b5f45.png)
-![Screenshot_1618784812](https://user-images.githubusercontent.com/56524671/115172999-05511e80-a08c-11eb-83b7-14d9123c5c24.png)
+
+![Screenshot_1618784800](https://user-images.githubusercontent.com/56524671/115173089-244fb080-a08c-11eb-98de-f5d912371a0b.png)
+
+![Screenshot_1618784805](https://user-images.githubusercontent.com/56524671/115173133-33cef980-a08c-11eb-9513-1fb74d22d174.png)
+
+![Screenshot_1618784808](https://user-images.githubusercontent.com/56524671/115173149-3f222500-a08c-11eb-858f-6eebd9b811c0.png)
+
+![Screenshot_1618784812](https://user-images.githubusercontent.com/56524671/115173155-42b5ac00-a08c-11eb-9ab4-c1564e50ec38.png)
+
+![Screenshot_1618789270](https://user-images.githubusercontent.com/56524671/115173161-46e1c980-a08c-11eb-99a2-fee57c52ba27.png)
+
+![Screenshot_1618789283](https://user-images.githubusercontent.com/56524671/115173166-48ab8d00-a08c-11eb-8541-9505d56a1ea6.png)
