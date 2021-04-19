@@ -15,23 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot_1618784800](https://user-images.githubusercontent.com/56524671/115173089-244fb080-a08c-11eb-98de-f5d912371a0b.png)
+![Screenshot_1618784800](https://user-images.githubusercontent.com/56524671/115173089-244fb080-a08c-11eb-98de-f5d912371a0b.png)![Screenshot_1618784805](https://user-images.githubusercontent.com/56524671/115173133-33cef980-a08c-11eb-9513-1fb74d22d174.png)![Screenshot_1618784808](https://user-images.githubusercontent.com/56524671/115173149-3f222500-a08c-11eb-858f-6eebd9b811c0.png)
 
-![Screenshot_1618784805](https://user-images.githubusercontent.com/56524671/115173133-33cef980-a08c-11eb-9513-1fb74d22d174.png)
-
-![Screenshot_1618784808](https://user-images.githubusercontent.com/56524671/115173149-3f222500-a08c-11eb-858f-6eebd9b811c0.png)
-
-![Screenshot_1618784812](https://user-images.githubusercontent.com/56524671/115173155-42b5ac00-a08c-11eb-9ab4-c1564e50ec38.png)
-
-![Screenshot_1618789270](https://user-images.githubusercontent.com/56524671/115173161-46e1c980-a08c-11eb-99a2-fee57c52ba27.png)
-
-![Screenshot_1618789283](https://user-images.githubusercontent.com/56524671/115173166-48ab8d00-a08c-11eb-8541-9505d56a1ea6.png)
-
-
-![Screenshot_1618784800](https://user-images.githubusercontent.com/56524671/115173233-74c70e00-a08c-11eb-9937-d0bce3a9cc57.png)![Screenshot_1618784805](https://user-images.githubusercontent.com/56524671/115173245-7c86b280-a08c-11eb-98ff-b83786709939.png)
-
-![Screenshot_1618784808](https://user-images.githubusercontent.com/56524671/115173251-801a3980-a08c-11eb-8a28-08cdf2730792.png)![Screenshot_1618784812](https://user-images.githubusercontent.com/56524671/115173263-87414780-a08c-11eb-8152-b47534a5800d.png)
-
-![Screenshot_1618789270](https://user-images.githubusercontent.com/56524671/115173279-90321900-a08c-11eb-96b2-d9d78ba21c98.png)![Screenshot_1618789283](https://user-images.githubusercontent.com/56524671/115173281-932d0980-a08c-11eb-8318-230a52fdf443.png)
+![Screenshot_1618784812](https://user-images.githubusercontent.com/56524671/115173155-42b5ac00-a08c-11eb-9ab4-c1564e50ec38.png)![Screenshot_1618789270](https://user-images.githubusercontent.com/56524671/115173161-46e1c980-a08c-11eb-99a2-fee57c52ba27.png)![Screenshot_1618789283](https://user-images.githubusercontent.com/56524671/115173166-48ab8d00-a08c-11eb-8541-9505d56a1ea6.png)
 
 
